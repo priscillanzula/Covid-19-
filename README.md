@@ -29,3 +29,19 @@ A Python-based analysis of COVID-19 data examining infection patterns and mortal
 - Time-series analysis showed distinct infection waves
 - Challenges included inconsistent reporting methods between countries
 - Visualization techniques helped identify hidden patterns in the data
+
+  ## Contact
+ 
+<table>
+  <tbody>
+       <tr>
+  <td align="center">
+        <a href="https://github.com/priscillanzula">
+          <img src="https://avatars.githubusercontent.com/u/144167777?v=4" width="100;" alt="priscillanzula"/>
+          <br />
+          <sub><b>Priscilla Nzula</b></sub>
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
